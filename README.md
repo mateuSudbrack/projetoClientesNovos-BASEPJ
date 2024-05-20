@@ -5,4 +5,5 @@ Um repositório dedicado ao projeto de aquisição de novos clientes, utilizando
 <a href="https://siliciogrupo62912.activehosted.com/app/deals?pipeline=32"> Funil do projeto no Active Campaign </a> <br>
 <a href="https://siliciogrupo62912.activehosted.com/series/294"> Fluxo Principal Active Campaign </a> <br>
 <a href="https://digiyou.app.n8n.cloud/workflow/YArcJAWcYxBso6mG"> Fluxo N8N para verificar se o cliente criou pedido. </a> <br>
+<a href="https://github.com/mateuSudbrack/projetoClientesNovos-BASEPJ/)"> Tabela de clientes novos no banco de dados </a> <br>
 
