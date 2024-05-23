@@ -1,0 +1,5 @@
+UPDATE EMPRESAS
+SET Data_Inicio_Atividade = DATE_FORMAT(
+    DATE_ADD('1900-01-01', INTERVAL (Data_Inicio_Atividade - 2) DAY),
+    '%d/%m/%Y'
+);
